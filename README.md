@@ -1,0 +1,2 @@
+# sigpol
+Sistem Informasi Politik
